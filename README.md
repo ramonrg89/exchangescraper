@@ -15,11 +15,11 @@ Você tem duas opções para usar este projeto:
 
 ### 1. Baixar e Executar o Executável
 
-Se você preferir, pode baixar o arquivo executável [`exchangescraper.exe`](link_para_o_arquivo_executável) e simplesmente executá-lo no seu computador. Com essa opção, **não há necessidade de instalar dependências** ou configurar o ambiente Python. Basta seguir os passos abaixo:
+Se você preferir, pode baixar o arquivo executável [`exchangescraper.exe`](https://drive.google.com/drive/folders/19rOJTGfA2Tct5nLoAdHr-p9eVAwcBibs?usp=drive_link) e simplesmente executá-lo no seu computador. Com essa opção, **não há necessidade de instalar dependências** ou configurar o ambiente Python. Basta seguir os passos abaixo:
 
 1. **Baixe o arquivo executável**:
 
-    - [Clique aqui para baixar o `exchangescraper.exe`](link_para_o_arquivo_executável)
+    - [Clique aqui para baixar o `exchangescraper.exe`](https://drive.google.com/drive/folders/19rOJTGfA2Tct5nLoAdHr-p9eVAwcBibs?usp=drive_link)
 
 2. **Execute o arquivo**:
 
@@ -69,9 +69,6 @@ Se você preferir, pode clonar o repositório e executar o código Python direta
 - `execute_tasks()`: Função principal que coordena a execução das tarefas.
 - `main()`: Função principal que inicia o processo.
 
-## Contribuições
-
-Contribuições são bem-vindas! Por favor, abra uma issue ou um pull request se você encontrar um bug ou tiver sugestões de melhorias.
 
 ## Licença
 
