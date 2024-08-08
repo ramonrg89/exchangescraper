@@ -9,16 +9,25 @@ Este projeto é uma ferramenta para obter a cotação do dólar comercial a part
 - **Geração de documento**: Cria um documento do Word com a cotação do dólar e a captura de tela.
 - **Conversão para PDF**: Converte o documento do Word para PDF.
 
-## Requisitos
+## Como Usar
 
-- Python 3.x
-- Selenium
-- python-docx
-- docx2pdf
-- Tkinter
-- ChromeDriver (compatível com sua versão do Chrome)
+Você tem duas opções para usar este projeto:
 
-## Instalação
+### 1. Baixar e Executar o Executável
+
+Se você preferir, pode baixar o arquivo executável [`exchangescraper.exe`](link_para_o_arquivo_executável) e simplesmente executá-lo no seu computador. Com essa opção, **não há necessidade de instalar dependências** ou configurar o ambiente Python. Basta seguir os passos abaixo:
+
+1. **Baixe o arquivo executável**:
+
+    - [Clique aqui para baixar o `exchangescraper.exe`](link_para_o_arquivo_executável)
+
+2. **Execute o arquivo**:
+
+    - No Windows, basta dar um duplo clique em `exchangescraper.exe` e seguir as instruções na interface gráfica.
+
+### 2. Executar o Código Fonte
+
+Se você preferir, pode clonar o repositório e executar o código Python diretamente. Esta opção é ideal para desenvolvedores que desejam entender ou modificar o código.
 
 1. **Clone o repositório:**
 
@@ -41,17 +50,13 @@ Este projeto é uma ferramenta para obter a cotação do dólar comercial a part
 
     Faça o download do ChromeDriver compatível com a versão do seu Chrome [aqui](https://sites.google.com/chromium.org/driver/). Coloque o executável do ChromeDriver em um diretório que está no PATH ou especifique o caminho diretamente no código.
 
-## Uso
-
-1. **Execute o script:**
+4. **Execute o script:**
 
     ```bash
     python main.py
     ```
 
-2. **Siga as instruções na interface gráfica:**
-
-    O script irá solicitar que você insira seu nome. Após a entrada, ele começará a coleta da cotação do dólar, capturará a tela e gerará um documento do Word e um PDF.
+5. **Siga as instruções na interface gráfica** para obter a cotação do dólar e gerar o documento.
 
 ## Estrutura do Código
 
@@ -75,4 +80,3 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para me contatar.
-
