@@ -1,4 +1,4 @@
-# Dólar Cotação Tracker
+# Tracker Cotação Dólar 
 
 Este projeto é uma ferramenta para obter a cotação do dólar comercial a partir de um site específico e gerar um documento do Word com a informação coletada, que é então convertido para PDF. A aplicação utiliza o Selenium para automatizar a navegação na web, o Tkinter para interação com o usuário e o `python-docx` para manipulação de documentos do Word.
 
